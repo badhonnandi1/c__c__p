@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-    printf("Hello Bro ki obosta 3");
+    printf("r e boss valo toh ;)");
     return 0;
 }
